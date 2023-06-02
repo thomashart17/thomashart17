@@ -5,7 +5,7 @@ Computer Engineering Student at the University of Waterloo
 ----------------------------------------------------------
 
 * 🌍  I'm based in Vancouver, BC
-* 🖥️  See my portfolio at [thomashart17.github.io](http://thomashart17.github.io)
+* 🖥️  See my portfolio at [thomashart.tech](https://thomashart.tech)
 * ✉️  You can contact me at [thomas.hart@uwaterloo.ca](mailto:thomas.hart@uwaterloo.ca)
 
 ### Skills
